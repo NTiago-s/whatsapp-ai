@@ -45,6 +45,7 @@ next-env.d.ts
 
 # agent configuration
 /.agents/
+/.windsurf/
 /.claude/
 /AGENTS.md
 /CLAUDE.md
