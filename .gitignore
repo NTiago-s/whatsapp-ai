@@ -43,9 +43,18 @@ next-env.d.ts
 
 /app/generated/prisma
 
-# agent configuration
+# AI agents / Codex / Claude / Windsurf
 /.agents/
 /.windsurf/
 /.claude/
+/.codex/
+
 /AGENTS.md
 /CLAUDE.md
+/CODEX.md
+/skills-lock.json
+
+# Agent logs / prompts
+*.log
+*.prompt
+*.prompts
